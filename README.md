@@ -1,1 +1,1 @@
-# hexlet-js
+Second Hexlet projekt
